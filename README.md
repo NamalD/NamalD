@@ -10,3 +10,4 @@ _Software Developer_
     - Python
 - [Subword](https://github.com/NamalD/Subword) - Substring Word Generator
     - F# using SAFE stack
+- [Hosts Helper](https://github.com/NamalD/hosts-helper) - VS Code extension to assist with editing host files
